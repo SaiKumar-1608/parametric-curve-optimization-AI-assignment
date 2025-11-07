@@ -207,17 +207,6 @@ In short, **this model balances precision, simplicity, and transparency**, makin
 
 ---
 
-## 🏁 **Final Evaluation Summary**
-
-| Criterion                  | Max Score | Achieved               | Comments                        |
-| -------------------------- | --------- | ---------------------- | ------------------------------- |
-| L1 Distance (fit accuracy) | 100       | ✅ Excellent            | L1 = 25.24                      |
-| Explanation & Methodology  | 80        | ✅ Detailed             | Step-by-step clarity            |
-| Code Reproducibility       | 50        | ✅ Full                 | Deterministic, verified         |
-| **Total (Approx.)**        | **230**   | **225–230 (A+ Level)** | Excellent, ready for submission |
-
----
-
 ## 🧾 **References and Tools**
 
 * **Python Libraries**: `numpy`, `pandas`, `matplotlib`, `scipy`
