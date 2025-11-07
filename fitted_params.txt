@@ -1,0 +1,5 @@
+Final Parameters (theta in degrees):
+theta = 28.118419
+M = 0.021389
+X = 54.900089
+L1 Loss = 25.24339589
