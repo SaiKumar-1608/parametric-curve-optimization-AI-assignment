@@ -216,10 +216,5 @@ In short, **this model balances precision, simplicity, and transparency**, makin
 
 ---
 
-### **Author**
-
-**Sai**
-Full Stack Developer | AI & Research Enthusiast
-Assignment Submission for Research and Development / AI
 
 ---
