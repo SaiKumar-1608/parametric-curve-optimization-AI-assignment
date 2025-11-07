@@ -8,11 +8,8 @@
 
 We are given a **parametric curve** defined by the following equations:
 
-
-\begin{aligned}
-x &= t \cdot \cos(\theta) - e^{M|t|} \cdot \sin(0.3t) \cdot \sin(\theta) + X, \
-y &= 42 + t \cdot \sin(\theta) + e^{M|t|} \cdot \sin(0.3t) \cdot \cos(\theta)
-\end{aligned}
+x = (t * cos(θ) - e^M|t| * sin(0.3t)sin(θ) + X)
+y = (42 + t * sin(θ) + e^M|t| * sin(0.3t)cos(θ))
 
 
 The **unknown parameters** are:
