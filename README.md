@@ -74,9 +74,7 @@ def model(theta_deg, M, X, t):
 To quantify the model’s accuracy, the **L1 distance** was used as the error metric —
 the same measure mentioned in the assignment rubric.
 
-[
-L_1 = \frac{1}{n}\sum_i \big(|x_i^{pred} - x_i^{obs}| + |y_i^{pred} - y_i^{obs}|\big)
-]
+L1 = np.mean(np.abs(x_pred - x_data) + np.abs(y_pred - y_data))
 
 ```python
 def L1_loss(params):
@@ -211,8 +209,4 @@ In short, **this model balances precision, simplicity, and transparency**, makin
 * **Optimization Algorithm**: L-BFGS-B (bounded quasi-Newton)
 * **Visualization**: Matplotlib for model–data comparison
 * **Desmos Graphing Tool**: [https://www.desmos.com/calculator/rfj91yrxob](https://www.desmos.com/calculator/rfj91yrxob)
-
----
-
-
----
+* 
